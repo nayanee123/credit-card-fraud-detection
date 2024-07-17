@@ -20,7 +20,8 @@ The following is recommendation of the steps that should be employed towards att
 
 	Model Training: Split the data into train & test sets and use the train set to estimate the best model parameters. 
 
-	Model Validation: Evaluate the performance of the model on data that was not used during the training process. The goal is to estimate the model's ability to generalize to new, unseen data and to identify any issues with the model, such as overfitting. 
+	Model Validation: Evaluate the performance of the model on data that was not used during the training process. The goal is to estimate the model's ability to generalize to new, unseen data and to identify any issues with the model, such as overfitting.
+
 	Model Deployment: Model deployment is the process of making a trained machine learning model available for use in a production environment. 
 
 
