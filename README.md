@@ -8,7 +8,7 @@ We have to build a classification model to predict whether a transaction is frau
 
 | S.NO.| TOPIC | LINK |
 |-|-|-|
-|01| Problem Statement |(https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated Project guide data set/creditcard.csv)
-|02| Data Sources | (https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fkh3-ls-storage.s3.us-east-1.amazonaws.com%2FUpdated%2520Project%2520guide%2520data%2520set%2FAnomaData.xlsx&wdOrigin=BROWSELINK)
-|03| Model Traning & Preprocessing |n (http://localhost:8888/notebooks/creditcard.ipynb)
+|01| Problem Statement |(
+|02| Data Sources | (https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated Project guide data set/creditcard.csv)
+|03| Model Traning & Preprocessing | (http://localhost:8888/notebooks/creditcard.ipynb)
 |04| Evaluation | (http://localhost:8888/notebooks/creditcard.ipynb)
