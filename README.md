@@ -8,7 +8,7 @@ We have to build a classification model to predict whether a transaction is frau
 
 The following is recommendation of the steps that should be employed towards attempting to solve this problem statement: 
 
-	Exploratory Data Analysis: Analyze and understand the data to identify patterns, relationships, and trends in the data by using Descriptive Statistics and Visualizations. 
+	Exploratory Data Analysis: Analyze and understand the data to identify patterns, relationships, and trends in the data by using Descriptive Statistics and Visualizations. /n
 	Data Cleaning: This might include standardization, handling the missing values and outliers in the data. 
 	Dealing with Imbalanced data: This data set is highly imbalanced. The data should be balanced using the appropriate methods before moving onto model building.
 	Feature Engineering: Create new features or transform the existing features for better performance of the ML Models. 
